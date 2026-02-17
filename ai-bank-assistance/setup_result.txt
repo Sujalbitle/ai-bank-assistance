@@ -1,0 +1,6 @@
+Python executable: C:\Users\91798\AppData\Local\Programs\Python\Python313\python.exe
+Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+langchain_groq: OK
+langchain_huggingface: OK
+faiss: OK
+rag_engine import: FAIL - ('parser', <class 'module'>)

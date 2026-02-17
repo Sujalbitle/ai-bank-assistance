@@ -1,0 +1,35 @@
+# AI Bank - Customer Service Knowledge Base
+
+## Account Information
+Q: What types of accounts do you offer?
+A: AI Bank offers several types of accounts:
+1. **Savings Account**: Earns 4.5% interest per annum. minimum balance required is $500.
+2. **Current Account**: Zero-balance account for businesses with unlimited transactions.
+3. **Fixed Deposit**: High-interest deposit starting from 1 year tenure with up to 7% interest.
+
+Q: How do I open a savings account?
+A: You can open a savings account by visiting the nearest branch with your ID proof (Passport, Driver's License) and address proof (Utility Bill). Alternatively, you can apply online through our mobile app.
+
+Q: What is the minimum balance for a savings account?
+A: The minimum balance for a standard savings account is $500. Non-maintenance may attract a monthly penalty of $10.
+
+## Loans
+Q: What are the home loan interest rates?
+A: Home loan interest rates start at 8.5% p.a. for salaried individuals and 9% p.a. for self-employed individuals.
+
+Q: How can I apply for a personal loan?
+A: Existing customers can apply for a pre-approved personal loan via net banking. New customers can visit the 'Loans' section on our website to verify eligibility.
+
+## Digital Banking
+Q: How do I reset my net banking password?
+A: click on 'Forgot Password' on the login page. Enter your Customer ID and verify it using the OTP sent to your registered mobile number.
+
+Q: Is there a limit on UPI transactions?
+A: Yes, the daily limit for UPI transactions is $1,000,000, with a maximum of 10 transactions per day.
+
+## Branch & ATM
+Q: Where is the main branch located?
+A: The main branch is located at 123 AI Street, Tech Park, Silicon Valley.
+
+Q: Can I use my debit card internationally?
+A: Yes, international usage can be enabled through the mobile app under 'Card Settings'. International transaction fees of 2% apply.

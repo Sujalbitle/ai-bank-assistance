@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+python-dotenv
+sentence-transformers
+huggingface-hub
+langchain-huggingface
